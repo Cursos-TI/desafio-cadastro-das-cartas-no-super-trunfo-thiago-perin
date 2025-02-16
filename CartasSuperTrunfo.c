@@ -35,7 +35,7 @@ int main() {
 		
     printf("Cidade cadastrada: \n");
 	printf("Nome da cidade: %s \n", nome);
-	printf("População da cidade: %d mil habitantes \n", populacao);
+	printf("População da cidade: %f mil habitantes \n", populacao);
 	printf("Area da cidade: %.2f Kmˆ2 \n", area);
 	printf("PIB da cidade: %.2f milhões de reais\n", pib);
 	printf("Quantidade de pontos turisticos: %d \n", pontos);
